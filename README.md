@@ -4,7 +4,7 @@
 
 <break>
   
-<script src="https://tryhackme.com/badge/158240"></script>
+![m1r3x](https://tryhackme-badges.s3.amazonaws.com/m1r3x.png)
 ![m1r3x](https://www.hackthebox.eu/badge/image/255952)
 
 ## About Me
