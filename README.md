@@ -1,5 +1,5 @@
-# Hi 👋 I am Mahammadjan Mahammadjanov (m1r3x)
-[<img src="https://img.shields.io/static/v1?message=website&color=white&style=for-the-badge" />](https://m1r3x.github.io)
+# Welcome to my Github 👋
+[<img src="https://img.shields.io/static/v1?label=&message=website&color=white&style=for-the-badge" />](https://m1r3x.github.io)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahammadjan/)
 
 <break>
