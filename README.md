@@ -1,4 +1,4 @@
-# Welcome to my Github 👋
+# Welcome 👋
 [<img src="https://img.shields.io/static/v1?label=&message=my blog&color=gray&style=for-the-badge" />](https://m1r3x.github.io)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahammadjan/)
 
