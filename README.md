@@ -4,7 +4,7 @@
 
 <break>
   
-![m1r3x](https://github.com/m1r3x/m1r3x/master/images/thm.png)
+![m1r3x](https://github.com/m1r3x/m1r3x/blob/main/images/thm.png)
 ![m1r3x](https://www.hackthebox.eu/badge/image/255952)
 
 ## About Me
