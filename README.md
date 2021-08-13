@@ -1,10 +1,10 @@
 # Hi 👋 I am Mahammadjan Mahammadjanov (m1r3x)
-[<img src="https://img.shields.io/static/v1?label=my&message=website&color=white&style=for-the-badge" />](https://m1r3x.github.io)
+[<img src="https://img.shields.io/static/v1?message=website&color=white&style=for-the-badge" />](https://m1r3x.github.io)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahammadjan/)
 
 <break>
   
-![m1r3x](https://tryhackme-badges.s3.amazonaws.com/m1r3x.png)
+![m1r3x](https://github.com/m1r3x/m1r3x/master/images/thm.png)
 ![m1r3x](https://www.hackthebox.eu/badge/image/255952)
 
 ## About Me
