@@ -3,13 +3,14 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahammadjan/)
 
 <break>
-  
-![m1r3x](https://github.com/m1r3x/m1r3x/blob/main/images/thm.png)
-![m1r3x](https://www.hackthebox.eu/badge/image/255952)
+
+![HTB](https://www.hackthebox.eu/badge/image/255952)
+![THM](https://github.com/m1r3x/m1r3x/blob/main/images/thm.png)
+
 
 ## About Me
 
-I am cybersecurity enthusiast focusing mainly on the offensive security. In addition to that, I am a proficient python programmer and have a variety of skills related to DevOps. I like playing CTF challanges when I am free. 
+I am a cybersecurity enthusiast focusing mainly on offensive security. In addition to that, I am a proficient python programmer and have a variety of skills related to DevOps. When I'm free, I like to play CTF challanges and post write-ups. 
 
 <break>
   
