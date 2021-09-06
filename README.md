@@ -4,7 +4,7 @@
 
 <break>
 
-![HTB](https://www.hackthebox.eu/badge/image/255952?__cf_chl_jschl_tk__=pmd_H9s39p.iIavcxdp2CGxiGeK7X5gerMaCAc.dwYgZ5dQ-1630915257-0-gqNtZGzNAeWjcnBszQfR)
+![HTB](https://www.hackthebox.eu/badge/image/255952/)
 ![THM](https://github.com/m1r3x/m1r3x/blob/main/images/thm.png)
 
 
