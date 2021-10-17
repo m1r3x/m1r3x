@@ -18,9 +18,3 @@ I am a cybersecurity enthusiast focusing mainly on offensive security. In additi
   
 ![m1r3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1r3x&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1r3x&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-<b>If you would like to help me in some ways, I will leave this here :) </b>
-
-<a href="https://www.buymeacoffee.com/m1r3x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
- 
